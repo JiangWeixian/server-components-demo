@@ -1,6 +1,6 @@
 # React Server Components Demo
 
-> Forked version of [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo). The Different is that use [react@18]().
+> Forked version of [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo). The Different is that use [react@18]() and deprecated Postgress database setup based on [pomber/server-components-demo](https://github.com/pomber/server-components-demo/).
 
 - [React Server Components Demo](#react-server-components-demo)
   - [What is this?](#what-is-this)
