@@ -1,18 +1,21 @@
 # React Server Components Demo
 
-* [What is this?](#what-is-this)
-* [When will I be able to use this?](#when-will-i-be-able-to-use-this)
-* [Should I use this demo for benchmarks?](#should-i-use-this-demo-for-benchmarks)
-* [Setup](#setup)
-* [DB Setup](#db-setup)
-  + [Step 1. Create the Database](#step-1-create-the-database)
-  + [Step 2. Connect to the Database](#step-2-connect-to-the-database)
-  + [Step 3. Run the seed script](#step-3-run-the-seed-script)
-* [Notes about this app](#notes-about-this-app)
-  + [Interesting things to try](#interesting-things-to-try)
-* [Built by (A-Z)](#built-by-a-z)
-* [Code of Conduct](#code-of-conduct)
-* [License](#license)
+> Forked version of [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo). The Different is that use [react@18]().
+
+- [React Server Components Demo](#react-server-components-demo)
+  - [What is this?](#what-is-this)
+  - [When will I be able to use this?](#when-will-i-be-able-to-use-this)
+  - [Should I use this demo for benchmarks?](#should-i-use-this-demo-for-benchmarks)
+  - [Setup](#setup)
+  - [DB Setup](#db-setup)
+    - [Step 1. Create the Database](#step-1-create-the-database)
+    - [Step 2. Connect to the Database](#step-2-connect-to-the-database)
+    - [Step 3. Run the seed script](#step-3-run-the-seed-script)
+  - [Notes about this app](#notes-about-this-app)
+    - [Interesting things to try](#interesting-things-to-try)
+  - [Built by (A-Z)](#built-by-a-z)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
 
 ## What is this?
 
