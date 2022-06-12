@@ -6,7 +6,7 @@
  *
  */
 
-import {fetch} from 'react-fetch';
+import {fetch} from './vendors/react-fetch';
 import {searchNotes} from './db.server'
 
 import SidebarNote from './SidebarNote';
